@@ -6,7 +6,7 @@ and need to have a second instance of `qmail-smtpd` running with ssl support on 
 
 # pkgsrc dependencies
 -   [./net/ucspi-ssl](http://pkgsrc.se/net/ucspi-ssl) provides sslserver binary 
--   [./mail/qmail-run](http://pkgsrc.se/mail/qmail-run) provides qmailsendd and other scripts needed to run qmail on netbsd
+-   [./mail/qmail-run](http://pkgsrc.se/mail/qmail-run) provides qmailsend and other scripts needed to run qmail on netbsd
 
 # usage 
 
